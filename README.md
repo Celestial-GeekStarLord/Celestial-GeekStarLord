@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Drone Automation & Surveillance**
 - 🧠 I’m learning **Advanced Neural Networks and Computer Vision**
-- ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)** with **AI**
+- ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)**
 
 ---
 
