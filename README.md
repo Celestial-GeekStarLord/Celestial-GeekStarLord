@@ -9,35 +9,54 @@
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,dart,java,js,py,flutter,flask,tensorflow,arduino,aws,azure,firebase,mongodb,postgres,blender,unreal,figma,git,github&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Stats (Animated)
+## 🛠️ Cyber Tech Stack
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Celestial-GeekStarLord&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10&aniamtion=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=tokyonight&border_radius=10&animation=true" />
+  <img src="https://skillicons.dev/icons?i=cpp,dart,java,js,py,flutter,flask,tensorflow,arduino,aws,azure,firebase,mongodb,postgres,blender,unreal,figma,git,github&theme=dark" />
 </p>
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
 
 ---
 
-## 🌐 Socials
-<p align="left">
+## 📈 Neural Activity (Stats)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Celestial-GeekStarLord&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10&ring_color=36BCF7" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=tokyonight&border_radius=10&ring_color=36BCF7" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celestial-GeekStarLord&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="96%"/>
+</div>
+
+---
+
+## 🐍 Contribution Journey
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Celestial-GeekStarLord/Celestial-GeekStarLord/output/github-contribution-grid-snake.svg" width="96%">
+  </picture>
+</p>
+
+---
+
+## 🌌 Connect in the Matrix
+<p align="center">
 <a href="https://www.linkedin.com/in/nj-rocks007/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@rockwithnabin" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:cubesat007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/1ByMsSp9Cw/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</p>
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2" />
 </p>
