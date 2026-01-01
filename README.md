@@ -5,18 +5,22 @@
 
 - 🔭 I’m currently working on **Drone Automation & Surveillance**
 - 🧠 I’m learning **Advanced Neural Networks and Computer Vision**
-- ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)**
+- ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)** with **AI**
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,dart,java,js,py,flutter,flask,tensorflow,arduino,aws,azure,firebase,mongodb,postgres,blender,unreal,figma,git,github&perline=10" />
+## 🛠️ Cyber Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,java,js,py,flutter,flask,tensorflow,arduino,aws,azure,firebase,mongodb,postgres,blender,unreal,figma,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
 
 ---
 
-## 📊 Neural Activity (Stats)
+## 📈 Neural Activity (Stats)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Celestial-GeekStarLord&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=tokyonight&border_radius=10" />
@@ -39,8 +43,8 @@
 
 ---
 
-## 🌐 Socials
-<p align="left">
+## 🌌 Connect in the Matrix
+<p align="center">
 <a href="https://www.linkedin.com/in/nj-rocks007/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@rockwithnabin" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:cubesat007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -49,4 +53,8 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2" />
 </p>
