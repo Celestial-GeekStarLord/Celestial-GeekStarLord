@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Robotics+%26+AI+Engineer+Enthusiast;Building+intelligent+systems;Exploring+deep+learning+innovations;3D+Designer+%26+Developer" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **Drone Automation & Surveillance**
+- 🔭 I’m currently working on **NeuraLens-AI Powered SmartGlass**
 - 🧠 I’m learning **Advanced Neural Networks and Computer Vision**
 - ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)** with **AI**
 
