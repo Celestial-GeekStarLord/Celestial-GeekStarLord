@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF00FF,100:00D9FF&height=250&section=header&text=Nabin%20Joshi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Robotics%20and%20AI%20Engineer%20|%20National%20WRO%20Champion&descAlignY=58&descSize=20)
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&repeat=true&width=600&lines=Robotics+and+AI+Engineer;World+Robot+Olympiad+Champion;Building+Intelligent+Systems;Deep+Learning+Innovator;3D+Designer+and+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&lines=Robotics+and+AI+Engineer;World+Robot+Olympiad+Champion;Building+Intelligent+Systems;Deep+Learning+Innovator;3D+Designer+and+Developer)](https://git.io/typing-svg)
   
 </div>
 
