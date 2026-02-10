@@ -128,10 +128,11 @@ Competitions & Hackathons:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=radical&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Celestial-GeekStarLord&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestial-GeekStarLord&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF2E97&area=true&hide_border=false&border_color=00D9FF&radius=15" />
 </div>
 
 <br>
+
 
 ## 🌐 Let's Connect
 
