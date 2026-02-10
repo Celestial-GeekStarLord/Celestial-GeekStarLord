@@ -19,7 +19,7 @@
         <br><br>
         <b>🥇 First Global Champion</b><br>
         <i>Represented Nepal among 197 nations at age 17</i><br>
-        <sub>Built & programmed a CubeSat (1000 cm³ satellite) for atmospheric data collection</sub><br>
+        <sub>Built & programmed a CubeSat (1000 cm³ satellite) for atmospheric data collection in the stratosphere</sub><br>
         <sub>Theme: "Discover and Recover"</sub>
       </td>
       <td align="center" width="50%">
