@@ -8,12 +8,6 @@
   
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
 ## 🏆 Major Achievements
 
 <div align="center">
@@ -123,12 +117,6 @@ Competitions & Hackathons:
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
 ## 📊 Neural Activity Metrics
 
 <div align="center">
@@ -140,19 +128,7 @@ Competitions & Hackathons:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=radical&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestial-GeekStarLord&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF2E97&area=true&hide_border=false&border_color=00D9FF&radius=15" />
-</div>
-
-<br>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Celestial-GeekStarLord">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Celestial-GeekStarLord&repo=NeuraLens&theme=radical&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=C9D1D9" />
-</a>
-
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Celestial-GeekStarLord&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </div>
 
 <br>
@@ -184,7 +160,7 @@ Competitions & Hackathons:
   
   ### 📈 Contribution Graph
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Celestial-GeekStarLord&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF2E97&area=true&hide_border=false&border_color=00D9FF" width="100%"/>
+  [![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Celestial-GeekStarLord)
   
 </div>
 
@@ -194,7 +170,7 @@ Competitions & Hackathons:
   
   ### 🏅 GitHub Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Celestial-GeekStarLord&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&border_color=00D9FF&bg_color=0D1117" width="100%"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Celestial-GeekStarLord&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -202,7 +178,7 @@ Competitions & Hackathons:
 
 <div align="center">
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2)
+  [![](https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2)](https://visitcount.itsvg.in)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FFF,100:FF2E97&height=120&section=footer" width="100%"/>
   
