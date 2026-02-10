@@ -1,0 +1,140 @@
+<svg width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient Background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF00FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow Effect for Text -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Red Glow for N and J -->
+    <filter id="redGlow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feComponentTransfer>
+        <feFuncR type="discrete" tableValues="1"/>
+        <feFuncG type="discrete" tableValues="0"/>
+        <feFuncB type="discrete" tableValues="0"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="250" fill="url(#bgGradient)"/>
+  
+  <!-- Wave Shape at Bottom -->
+  <path d="M0,180 Q300,140 600,180 T1200,180 L1200,250 L0,250 Z" fill="#0D1117" opacity="0.3">
+    <animate attributeName="d" 
+             values="M0,180 Q300,140 600,180 T1200,180 L1200,250 L0,250 Z;
+                     M0,180 Q300,200 600,180 T1200,180 L1200,250 L0,250 Z;
+                     M0,180 Q300,140 600,180 T1200,180 L1200,250 L0,250 Z" 
+             dur="5s" 
+             repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Name with custom coloring -->
+  <g filter="url(#glow)">
+    <!-- "N" in Red -->
+    <text x="335" y="110" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#FF0000" filter="url(#redGlow)">
+      N
+      <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- "abin" in White -->
+    <text x="395" y="110" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#ffffff">
+      abin
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- "J" in Red -->
+    <text x="595" y="110" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#FF0000" filter="url(#redGlow)">
+      J
+      <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- "oshi" in White -->
+    <text x="645" y="110" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#ffffff">
+      oshi
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Description -->
+    <text x="600" y="150" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" opacity="0.9">
+      Robotics and AI Engineer | National WRO Champion
+    </text>
+  </g>
+  
+  <!-- Floating Bubbles -->
+  <g opacity="0.6">
+    <circle cx="150" cy="250" r="8" fill="none" stroke="#ffffff" stroke-width="2">
+      <animate attributeName="cy" values="250;-50" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="8;12;8" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="300" cy="250" r="6" fill="none" stroke="#00D9FF" stroke-width="1.5">
+      <animate attributeName="cy" values="250;-50" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="300;320;300" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="450" cy="250" r="10" fill="none" stroke="#FF00FF" stroke-width="2">
+      <animate attributeName="cy" values="250;-50" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;14;10" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="600" cy="250" r="7" fill="none" stroke="#ffffff" stroke-width="1.5">
+      <animate attributeName="cy" values="250;-50" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="600;580;600" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="750" cy="250" r="9" fill="none" stroke="#00D9FF" stroke-width="2">
+      <animate attributeName="cy" values="250;-50" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="9;13;9" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="900" cy="250" r="6" fill="none" stroke="#FF00FF" stroke-width="1.5">
+      <animate attributeName="cy" values="250;-50" dur="9.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="9.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="1050" cy="250" r="8" fill="none" stroke="#ffffff" stroke-width="2">
+      <animate attributeName="cy" values="250;-50" dur="8.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="1050;1070;1050" dur="8.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="8;12;8" dur="8.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Small bubbles -->
+    <circle cx="220" cy="250" r="4" fill="none" stroke="#ffffff" stroke-width="1">
+      <animate attributeName="cy" values="250;-50" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="520" cy="250" r="5" fill="none" stroke="#00D9FF" stroke-width="1">
+      <animate attributeName="cy" values="250;-50" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="520;540;520" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.3;0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="820" cy="250" r="4" fill="none" stroke="#FF00FF" stroke-width="1">
+      <animate attributeName="cy" values="250;-50" dur="10.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="10.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
