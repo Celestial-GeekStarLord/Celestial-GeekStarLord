@@ -1,49 +1,215 @@
-# 💫 About Me
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Robotics+%26+AI+Engineer+Enthusiast;Building+intelligent+systems;Exploring+deep+learning+innovations;3D+Designer+%26+Developer" alt="Typing SVG" />
-</p>
-
-- 🔭 I’m currently working on **NeuraLens-AI Powered SmartGlass**
-- 🧠 I’m learning **Advanced Neural Networks and Computer Vision**
-- ⚡ Fun fact: I love blending **3D Design (Blender/Unreal)** with **AI**
-
----
-
-## 🛠️ Cyber Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,java,js,py,flutter,flask,tensorflow,arduino,aws,azure,firebase,mongodb,postgres,blender,unreal,figma,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</p>
-
----
-
-## 📈 Neural Activity (Stats)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Celestial-GeekStarLord&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FFF,100:FF2E97&height=200&section=header&text=Nabin%20Joshi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20|%20National%20WRO%20Champion&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celestial-GeekStarLord&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="96%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Robotics+%26+AI+Engineer;World+Robot+Olympiad+Champion;Building+Intelligent+Systems;Deep+Learning+Innovator;3D+Designer+%26+Developer)](https://git.io/typing-svg)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 🏆 Major Achievements
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🌍_World_Robot_Olympiad-NATIONAL_WINNER-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+        <br><br>
+        <b>🥇 First Global Champion</b><br>
+        <i>Represented Nepal among 197 nations at age 17</i><br>
+        <sub>Built & programmed a CubeSat (1000 cm³ satellite) for atmospheric data collection</sub><br>
+        <sub>Theme: "Discover and Recover"</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🚀_NASA_Space_Apps-PARTICIPANT-0B3D91?style=for-the-badge&labelColor=1a1a1a" />
+        <br><br>
+        <b>🪐 Chronicles of Exoplanet Exploration</b><br>
+        <i>Designed interactive 3D planet visualization</i><br>
+        <sub>Built with Three.js: Sketch 2D planets → Render in 3D environments</sub><br>
+        <sub>Creating engaging cosmic experiences</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+## 🚀 Current Mission
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **NeuraLens** - AI-Powered Smart Glass System  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Drone Surveillance Systems** - Autonomous AI-based monitoring  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Advanced Neural Networks & Computer Vision** - Deep learning research
+
+<br>
+
+## 💼 Professional Experience
+
+```yaml
+Robotics Association of Nepal:
+  role: Active Member
+  focus: Robotics & AI Initiatives
+  contribution: Non-profit organization advancement
+
+Competitions & Hackathons:
+  - Microsoft Imagine Cup
+  - Various International Hackathons
+  - Problem-solving through cutting-edge technology
+```
+
+<br>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,dart&theme=dark" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,figma&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,firebase,mongodb,postgres&theme=dark" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+  <br>
+  <sub>🌊 Built Flood Alert System with real-time notifications</sub>
+</p>
+
+### 🤖 AI/ML & Robotics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github&theme=dark" />
+</p>
+
+### 🎭 3D Design & Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,unreal&theme=dark" />
+  <br>
+  <sub>🏠 Interior Design & Architectural Modeling | 🎬 3D Visualization</sub>
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 📊 Neural Activity Metrics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Celestial-GeekStarLord&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Celestial-GeekStarLord&theme=radical&border_radius=15&border=00D9FF&background=0D1117&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF" />
+  
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-GeekStarLord&layout=compact&theme=radical&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestial-GeekStarLord&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF2E97&area=true&hide_border=false&border_color=00D9FF&radius=15" />
+</div>
+
+<br>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Celestial-GeekStarLord">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Celestial-GeekStarLord&repo=NeuraLens&theme=radical&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nj-rocks007/)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rockwithnabin)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ByMsSp9Cw/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cubesat007@gmail.com)
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 💭 Developer Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 📈 Contribution Graph
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Celestial-GeekStarLord&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF2E97&area=true&hide_border=false&border_color=00D9FF" width="100%"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 🏅 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Celestial-GeekStarLord&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&border_color=00D9FF&bg_color=0D1117" width="100%"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Profile Views](https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FFF,100:FF2E97&height=120&section=footer" width="100%"/>
+  
 </div>
 
 ---
 
-## 🌌 Connect in the Matrix
-<p align="center">
-<a href="https://www.linkedin.com/in/nj-rocks007/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@rockwithnabin" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:cubesat007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/1ByMsSp9Cw/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Celestial-GeekStarLord&icon=7&color=2" />
-</p>
+<div align="center">
+  <sub>⚡ "Building the future, one neural network at a time" ⚡</sub>
+</div>
