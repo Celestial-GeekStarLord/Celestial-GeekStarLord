@@ -20,7 +20,7 @@
         <sub>Theme: "Discover and Recover"</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🚀_NASA_Space_Apps-PARTICIPANT-0B3D91?style=for-the-badge&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/🚀_NASA_Space_Apps-COMPETITOR-0B3D91?style=for-the-badge&labelColor=1a1a1a" />
         <br><br>
         <b>🪐 Chronicles of Exoplanet Exploration</b><br>
         <i>Designed interactive 3D planet visualization</i><br>
