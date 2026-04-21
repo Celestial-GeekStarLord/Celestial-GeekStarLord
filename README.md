@@ -5,7 +5,7 @@
   
 </div>
 
-## 🏆 Major Achievements
+## 🏆 Major Achievement
 
 <div align="center">
   
