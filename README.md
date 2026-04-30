@@ -156,7 +156,7 @@ Competitions & Hackathons:
 
 <div align="center">
   
-  ### 📈 Contribution Graph
+  ### 📈 Contribution Graphs
   
   [![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Celestial-GeekStarLord)
   
